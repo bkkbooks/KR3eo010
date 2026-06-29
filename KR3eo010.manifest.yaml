@@ -1,0 +1,462 @@
+canonical_identifier: bkk:krp/KR3eo010/v1
+canonical_location: https://kanripo.org/bkk/KR3eo010/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 錦身機要
+  identifiers:
+    krp: KR3eo010
+  tags:
+    kr-categories: KR3eo
+    tls-dates: dat04250
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eo010.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3eo010_000.yaml, hash: 'sha256:9dbbd586c8168b248f7b3fd6ec75c100bb1930733cdc3b5939e0914aae18a790'}
+  - {seq: 1, filename: KR3eo010_001.yaml, hash: 'sha256:966f41760be8770e531c0254cc4ee59a27438b89b14142d8420e850ed90b305f'}
+  - {seq: 2, filename: KR3eo010_002.yaml, hash: 'sha256:8d784b7127a538b98db2ebe086978f5af70bbb6b2e133c5649b4afb8f7a4cc50'}
+  - {seq: 0, filename: KR3eo010_000.yaml, hash: 'sha256:9dbbd586c8168b248f7b3fd6ec75c100bb1930733cdc3b5939e0914aae18a790'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eo010_000.markers.yaml, hash: 'sha256:a14bad0926f5fb22a3b87fe642aa0e38836c34e766e1e0a7910a7515170f9209'}
+  - {seq: 1, role: markers, filename: assets/KR3eo010_001.markers.yaml, hash: 'sha256:0fe4c4fdf5b98c906b1f711d9c09974652d4038fd3e407103064d20f48873997'}
+  - {seq: 2, role: markers, filename: assets/KR3eo010_002.markers.yaml, hash: 'sha256:7a290c0cd87dc62f3be5c546bda82c64f4316fd975dc5b4492c39f6b1a6c7c38'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eo010_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 323
+  label: 敘
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eo010_jc_001-d3.h1s1
+    span:
+    - body
+    - 0
+    - 990
+  label: 卷上
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eo010_jc_001-d3d2
+    span:
+    - body
+    - 2
+    - 88
+  label: 踏地龍
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo010_jc_001-d3d3
+    span:
+    - body
+    - 88
+    - 170
+  label: 擺尾龍
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo010_jc_001-d3d4
+    span:
+    - body
+    - 170
+    - 257
+  label: 摩頂龍
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo010_jc_001-d3d5
+    span:
+    - body
+    - 257
+    - 339
+  label: 旋風龍
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo010_jc_001-d3d6
+    span:
+    - body
+    - 339
+    - 419
+  label: 交足龍
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo010_jc_001-d3d7
+    span:
+    - body
+    - 419
+    - 492
+  label: 撞關龍
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo010_jc_001-d3d8
+    span:
+    - body
+    - 492
+    - 572
+  label: 閉息龍
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo010_jc_001-d3d9
+    span:
+    - body
+    - 572
+    - 645
+  label: 登天龍
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo010_jc_001-d3d10
+    span:
+    - body
+    - 645
+    - 734
+  label: 升騰龍
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo010_jc_001-d3d11
+    span:
+    - body
+    - 734
+    - 808
+  label: 取水龍
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo010_jc_001-d3d12
+    span:
+    - body
+    - 808
+    - 905
+  label: 降丹龍
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo010_jc_001-d3d13
+    span:
+    - body
+    - 905
+    - 990
+  label: 拍火龍
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eo010_jc_002-d4.h1s1
+    span:
+    - body
+    - 0
+    - 2036
+  label: 卷中
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3eo010_jc_002-d4d2
+    span:
+    - body
+    - 2
+    - 85
+  label: 躍山虎
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eo010_jc_002-d4d3
+    span:
+    - body
+    - 85
+    - 181
+  label: 出洞虎
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eo010_jc_002-d4d4
+    span:
+    - body
+    - 181
+    - 246
+  label: 飛虹虎
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eo010_jc_002-d4d5
+    span:
+    - body
+    - 246
+    - 315
+  label: 舒筋虎
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eo010_jc_002-d4d6
+    span:
+    - body
+    - 315
+    - 400
+  label: 懸梁虎
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eo010_jc_002-d4d7
+    span:
+    - body
+    - 400
+    - 487
+  label: 鼎峙虎
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eo010_jc_002-d4d8
+    span:
+    - body
+    - 487
+    - 562
+  label: 獨立虎
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eo010_jc_002-d4d9
+    span:
+    - body
+    - 562
+    - 633
+  label: 翻身虎
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eo010_jc_002-d4d10
+    span:
+    - body
+    - 633
+    - 711
+  label: 反躬虎
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eo010_jc_002-d4d11
+    span:
+    - body
+    - 711
+    - 789
+  label: 納泉虎
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eo010_jc_002-d4d12
+    span:
+    - body
+    - 789
+    - 839
+  label: 桃花虎
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eo010_jc_002-d4d13
+    span:
+    - body
+    - 839
+    - 906
+  label: 安神虎
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eo010_jc_002-d4d14
+    span:
+    - body
+    - 906
+    - 995
+  label: 虎吹龍笛
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eo010_jc_002-d4d15
+    span:
+    - body
+    - 995
+    - 1082
+  label: 龍鼓虎琴
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eo010_jc_002-d4d16
+    span:
+    - body
+    - 1082
+    - 1185
+  label: 龍虎交加
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eo010_jc_002-d4d17
+    span:
+    - body
+    - 1185
+    - 1279
+  label: 龍虎傳授
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eo010_jc_002-d4d18
+    span:
+    - body
+    - 1279
+    - 1363
+  label: 獻龍招虎
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eo010_jc_002-d4d19
+    span:
+    - body
+    - 1363
+    - 1430
+  label: 地龍天虎
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eo010_jc_002-d4d20
+    span:
+    - body
+    - 1430
+    - 1485
+  label: 虎動龍迎
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eo010_jc_002-d4d21
+    span:
+    - body
+    - 1485
+    - 1568
+  label: 龍居虎窟
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eo010_jc_002-d4d22
+    span:
+    - body
+    - 1568
+    - 1643
+  label: 龍問虎信
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eo010_jc_002-d4d23
+    span:
+    - body
+    - 1643
+    - 1728
+  label: 虎躍龍潭
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eo010_jc_002-d4d24
+    span:
+    - body
+    - 1728
+    - 1826
+  label: 虎至龍鄉
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eo010_jc_002-d4d25
+    span:
+    - body
+    - 1826
+    - 2036
+  label: 三虎朝龍
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo010_jc_000-d5.h1s1
+    span:
+    - body
+    - 0
+    - 2517
+  label: 大道修真捷要選仙指源篇
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo010_jc_000-d5d10
+    span:
+    - body
+    - 1163
+    - 1476
+  label: 歸空口訣
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo010_jc_000-d5d11
+    span:
+    - body
+    - 1476
+    - 2123
+  label: 金液還丹捷徑
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo010_jc_000-d5d12
+    span:
+    - body
+    - 2123
+    - 2517
+  label: 銀劍式樣
+  type: section
+  level: 2
+hash: sha256:60934b5e8cc9ddc64845a2d048ad0a3f89b729c957a203758dbb8a286c9541b3
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

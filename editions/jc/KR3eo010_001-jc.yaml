@@ -1,0 +1,54 @@
+canonical_identifier: bkk:krp/KR3eo010/jc/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 卷上踏地龍兩手牢拿兩肘中腳頭著實腳根舂力行三八潮皆落天地山河一瀉空志剛曰以兩手拿兩肘者所以斂其筋骨也以腳根舂地者所以降其氣血也蓋筋骨斂則身中氣血不妄行也氣血既降而不妄動庶可施也擺尾龍擺尾須令左右如膝依向處莫容虛力行三八舒筋骨筋骨能舒動尾閭志剛曰以腰扭向左而實其左膝所以左之筋骨舒也扭向右而實右膝所以右之筋骨舒也左右力行之者所以動尾閭之筋骨也摩頂龍左手拿龍做甚麼卻將右手頂中摩前輕後重無多少但使心酸沒奈何志剛曰以左手拿龍之頸以右手摩龍之頂前輕者無其畏也後重者使其頑也無多少者心酸方止然既止而復摩使其頑劣無知見虎不懼也旋風龍左拳陽左右陰隨右亦如之左也回俯首力行因甚事毋令遍體骨筋衰志剛曰以左拳向左而右拳隨之以右拳向右而左拳隨之俯首力行為甚麼來無非所以動身之筋骨使其氣血周流毋令衰敗也交足龍兩足當胸兀坐間手叉抱膝膝撐彎左來右去俱三八夾脊雙關透上關志剛曰身坐虛則蟠其膝交其胸手叉實則抱其膝撐於兩肘然後以左肩向前右肩向後左右如之則夾脊雙關可以透過矣撞關龍叉手擎天著力齊身躬氣撞頂門追力行三八泥丸透透得泥丸笛可吹志剛曰兩手擎天而力撞以一身就鞠而氣衝沖則泥丸透透則笛可吹笛既吹則泥丸自然有風生之驗也閉息龍閉息工夫不可無不能閉息盡成誣若行九九工純熟此是修行大丈夫閉息工夫不可無者苟不能閉息雖能別改工夫皆為誣妄矣若能行之純熟可謂能修行第一件真難事也豈不為大丈夫乎登天龍將身臥地把心閒以膝齊胸用手扳一築一登連九九自然轉過尾閭間志剛曰身臥地而心無妄也兩手扳膝齊胸用登扳之數轉過尾閭之關未有不登扳而尾閭之關能轉者也升騰龍忍便吸鼻手叉腰蟠膝垂唇舌抵橋九九三三重用力雙關夾脊湧如潮志剛曰不忍便則有降而無升不吸鼻則有塞而無通不以唇垂則夾脊之筋不舒不以舌抵橋則玉枕之關難過遍身著力則黃河之水逆上如潮矣取水龍夾脊雙關路已通鼻中吸氣水隨龍龍吞香水升騰後效驗馨香到口中志剛曰龍降池而取水水隨龍而昇天全憑鼻吸之功以致通玄之妙馨香既到始合鉛永效驗能通方宜下手降丹龍既濟泥丸頂上來卻將蔥管鼻中栽喉中吸涕頻催墜頃刻無為自降腮志剛曰栽蔥入鼻開孔竅之不通吸涕喉中使靈丹之不脫無為自降恐吸重而傷丹有作相吞莫咽轉而失所先師此詩但言無自降不言有相吞者自然孔竅中行故也拍火龍巍然靜坐意須存兩手更相拍囟門一百數周安氣血遍身涼冷爽如神志剛曰不存意則意不存不靜坐則火不降故於身體勞動之後氣血甚盛之時須默然存意更拍頂門使火降而氣血安則無妄行之患矣
+  hash: sha256:b7375d51f8b9188ec005984008336a0d569009868e81d07c28b055c2be8de3ce
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3eo010_jc_001-d3.h1s1}
+  - {type: 'tls:div-start', offset: 2, content: '', id: KR3eo010_jc_001-d3d2, level: 2, head_text: 踏地龍}
+  - {type: 'tls:head', offset: 2, content: '', id: KR3eo010_jc_001-d3.d2.h1s1}
+  - {type: 'tls:div-end', offset: 88, content: '', id: KR3eo010_jc_001-d3d2}
+  - {type: 'tls:div-start', offset: 88, content: '', id: KR3eo010_jc_001-d3d3, level: 2, head_text: 擺尾龍}
+  - {type: 'tls:head', offset: 88, content: '', id: KR3eo010_jc_001-d3.d3.h1s1}
+  - {type: 'tls:div-end', offset: 170, content: '', id: KR3eo010_jc_001-d3d3}
+  - {type: 'tls:div-start', offset: 170, content: '', id: KR3eo010_jc_001-d3d4, level: 2, head_text: 摩頂龍}
+  - {type: 'tls:head', offset: 170, content: '', id: KR3eo010_jc_001-d3.d4.h1s1}
+  - {type: 'tls:div-end', offset: 257, content: '', id: KR3eo010_jc_001-d3d4}
+  - {type: 'tls:div-start', offset: 257, content: '', id: KR3eo010_jc_001-d3d5, level: 2, head_text: 旋風龍}
+  - {type: 'tls:head', offset: 257, content: '', id: KR3eo010_jc_001-d3.d5.h1s1}
+  - {type: 'tls:div-end', offset: 339, content: '', id: KR3eo010_jc_001-d3d5}
+  - {type: 'tls:div-start', offset: 339, content: '', id: KR3eo010_jc_001-d3d6, level: 2, head_text: 交足龍}
+  - {type: 'tls:head', offset: 339, content: '', id: KR3eo010_jc_001-d3.d6.h1s1}
+  - {type: 'tls:div-end', offset: 419, content: '', id: KR3eo010_jc_001-d3d6}
+  - {type: 'tls:div-start', offset: 419, content: '', id: KR3eo010_jc_001-d3d7, level: 2, head_text: 撞關龍}
+  - {type: 'tls:head', offset: 419, content: '', id: KR3eo010_jc_001-d3.d7.h1s1}
+  - {type: 'tls:div-end', offset: 492, content: '', id: KR3eo010_jc_001-d3d7}
+  - {type: 'tls:div-start', offset: 492, content: '', id: KR3eo010_jc_001-d3d8, level: 2, head_text: 閉息龍}
+  - {type: 'tls:head', offset: 492, content: '', id: KR3eo010_jc_001-d3.d8.h1s1}
+  - {type: 'tls:div-end', offset: 572, content: '', id: KR3eo010_jc_001-d3d8}
+  - {type: 'tls:div-start', offset: 572, content: '', id: KR3eo010_jc_001-d3d9, level: 2, head_text: 登天龍}
+  - {type: 'tls:head', offset: 572, content: '', id: KR3eo010_jc_001-d3.d9.h1s1}
+  - {type: 'tls:div-end', offset: 645, content: '', id: KR3eo010_jc_001-d3d9}
+  - {type: 'tls:div-start', offset: 645, content: '', id: KR3eo010_jc_001-d3d10, level: 2, head_text: 升騰龍}
+  - {type: 'tls:head', offset: 645, content: '', id: KR3eo010_jc_001-d3.d10.h1s1}
+  - {type: 'tls:div-end', offset: 734, content: '', id: KR3eo010_jc_001-d3d10}
+  - {type: 'tls:div-start', offset: 734, content: '', id: KR3eo010_jc_001-d3d11, level: 2, head_text: 取水龍}
+  - {type: 'tls:head', offset: 734, content: '', id: KR3eo010_jc_001-d3.d11.h1s1}
+  - {type: 'tls:div-end', offset: 808, content: '', id: KR3eo010_jc_001-d3d11}
+  - {type: 'tls:div-start', offset: 808, content: '', id: KR3eo010_jc_001-d3d12, level: 2, head_text: 降丹龍}
+  - {type: 'tls:head', offset: 808, content: '', id: KR3eo010_jc_001-d3.d12.h1s1}
+  - {type: 'tls:div-end', offset: 905, content: '', id: KR3eo010_jc_001-d3d12}
+  - {type: 'tls:div-start', offset: 905, content: '', id: KR3eo010_jc_001-d3d13, level: 2, head_text: 拍火龍}
+  - {type: 'tls:head', offset: 905, content: '', id: KR3eo010_jc_001-d3.d13.h1s1}
+  - {type: 'tls:div-end', offset: 990, content: '', id: KR3eo010_jc_001-d3d13}
+metadata:
+  title: 錦身機要
+  edition:
+    short: jc
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eo010.xml
+hash: sha256:de48eddd11f98716a659d78c22444625ef4fa6e582d863aa6d48a457c1433a0e

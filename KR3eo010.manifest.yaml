@@ -17,14 +17,14 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eo010_000.yaml, hash: 'sha256:9dbbd586c8168b248f7b3fd6ec75c100bb1930733cdc3b5939e0914aae18a790'}
-  - {seq: 1, filename: KR3eo010_001.yaml, hash: 'sha256:966f41760be8770e531c0254cc4ee59a27438b89b14142d8420e850ed90b305f'}
-  - {seq: 2, filename: KR3eo010_002.yaml, hash: 'sha256:8d784b7127a538b98db2ebe086978f5af70bbb6b2e133c5649b4afb8f7a4cc50'}
-  - {seq: 0, filename: KR3eo010_000.yaml, hash: 'sha256:9dbbd586c8168b248f7b3fd6ec75c100bb1930733cdc3b5939e0914aae18a790'}
+  - {seq: 0, filename: KR3eo010_000.yaml, hash: 'sha256:5d47f0bc58e9cb96298243def007fe772edb0009b1fa448af78df256b976bcf7'}
+  - {seq: 1, filename: KR3eo010_001.yaml, hash: 'sha256:de48eddd11f98716a659d78c22444625ef4fa6e582d863aa6d48a457c1433a0e'}
+  - {seq: 2, filename: KR3eo010_002.yaml, hash: 'sha256:04223f89a05066ff5768506d34c3a56719ce0036618fd4f6443cca1b25185e7e'}
+  - {seq: 0, filename: KR3eo010_000.yaml, hash: 'sha256:5d47f0bc58e9cb96298243def007fe772edb0009b1fa448af78df256b976bcf7'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eo010_000.markers.yaml, hash: 'sha256:a14bad0926f5fb22a3b87fe642aa0e38836c34e766e1e0a7910a7515170f9209'}
-  - {seq: 1, role: markers, filename: assets/KR3eo010_001.markers.yaml, hash: 'sha256:0fe4c4fdf5b98c906b1f711d9c09974652d4038fd3e407103064d20f48873997'}
-  - {seq: 2, role: markers, filename: assets/KR3eo010_002.markers.yaml, hash: 'sha256:7a290c0cd87dc62f3be5c546bda82c64f4316fd975dc5b4492c39f6b1a6c7c38'}
+  - {seq: 0, role: markers, filename: assets/KR3eo010_000.markers.yaml, hash: 'sha256:d066207cf26bbeda34d1dc6f475c468db3dafeef6234321e0d0eea3a25ed03f1'}
+  - {seq: 1, role: markers, filename: assets/KR3eo010_001.markers.yaml, hash: 'sha256:d0cb364d8895f3be4b0c045c0116cf40445be44fcfaba333c031236145e81cb8'}
+  - {seq: 2, role: markers, filename: assets/KR3eo010_002.markers.yaml, hash: 'sha256:bd3e0138f9a926589246ddf48d4802b8f92d617a461c8d6e8b249a3cce49285f'}
 table_of_contents:
 - ref:
     seq: 0
@@ -456,7 +456,4 @@ table_of_contents:
   label: 銀劍式樣
   type: section
   level: 2
-hash: sha256:60934b5e8cc9ddc64845a2d048ad0a3f89b729c957a203758dbb8a286c9541b3
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:72badea6bb929771ffe06a79c6ecf65b30d6b2ab6334fa076dc7f10aefec567b

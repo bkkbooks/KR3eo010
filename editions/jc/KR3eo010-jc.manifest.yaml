@@ -24,8 +24,7 @@ assets:
   markers:
   - {seq: 0, role: markers, filename: assets/KR3eo010_000-jc.markers.yaml, hash: 'sha256:4f78be01718fd08ee6d66fba8ea229b32eeb99f69bdf12fb339d5d3ce09566a6'}
   - {seq: 1, role: markers, filename: assets/KR3eo010_001-jc.markers.yaml, hash: 'sha256:436a71da2869cad8c4a5ba6ed6a05910024d1c3101bf5115620055e2668bb96e'}
-  - {seq: 2, role: markers, filename: assets/KR3eo010_002-jc.markers.yaml, hash: 'sha256:3544d7ea69947507f65e70bab4bc6a2e6bf5ff3ee3d927bc908690491d098c01'}
-  - {seq: 0, role: markers, filename: assets/KR3eo010_000-jc.markers.yaml, hash: 'sha256:4f78be01718fd08ee6d66fba8ea229b32eeb99f69bdf12fb339d5d3ce09566a6'}
+  - {seq: 2, role: markers, filename: assets/KR3eo010_002-jc.markers.yaml, hash: 'sha256:a87ec54a6c45fdd306af97ccd784c6acd799c0cafc07622158a27a5fca49864f'}
 table_of_contents:
 - ref:
     seq: 0
@@ -457,4 +456,4 @@ table_of_contents:
   label: 銀劍式樣
   type: section
   level: 2
-hash: sha256:2d414688bdc8663590646f15106fa5e701b172987bf12668f891fccd1f145e99
+hash: sha256:88ca6601baff7814ed877c56fe1cbe3944b96ef39cae61eb79ff23318fa484fc

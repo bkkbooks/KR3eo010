@@ -24,7 +24,7 @@ assets:
   markers:
   - {seq: 0, role: markers, filename: assets/KR3eo010_000.markers.yaml, hash: 'sha256:b14a9b40719c6c86ae455a121a15c56e29797caa301a7470651a5af42786aab9'}
   - {seq: 1, role: markers, filename: assets/KR3eo010_001.markers.yaml, hash: 'sha256:72e00f24837b28469d9dac58ad1792e4d24b7bb32f53981b73f3234d05fa319c'}
-  - {seq: 2, role: markers, filename: assets/KR3eo010_002.markers.yaml, hash: 'sha256:6ab63491bf992bb3d05088e3e3a7a04eb383246bfa09af74d54c95a1e1d3598f'}
+  - {seq: 2, role: markers, filename: assets/KR3eo010_002.markers.yaml, hash: 'sha256:2474900aa86d933185101f193e4ced0d9423c64c25a00eadc068d2887c1456f4'}
 table_of_contents:
 - ref:
     seq: 0
@@ -456,7 +456,7 @@ table_of_contents:
   label: 銀劍式樣
   type: section
   level: 2
-hash: sha256:83efba22fb21b48db9f72a8a3db474b724e0a2f78dd9585a3a80efd0ecd395d5
+hash: sha256:566a05ff0ce72a3bb827b2f569bffca4cc6241c71906632922db2f02af9847b8
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
